@@ -126,7 +126,7 @@ This project does not accept contributions as of now.
 
 ## 📄 [License](LICENSE)
 
-This project is [licensed](LICENSE) under the mit license. See the license file for details.
+This project is [licensed](LICENSE) under the MIT license. See the license file for details.
 
 ## 👏 Maayan Portuguese
 
